@@ -221,7 +221,7 @@ h6 {
 #hero {
     width: 100%;
     height: 100vh;
-    background: url('../img/hero-bg-2.jpg') top;
+    background: url('../img/hero-bg.jpg') right center;
     background-size: cover;
     background-blend-mode: darken;
 }
